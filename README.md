@@ -15,7 +15,7 @@ This project aims to develop a mobile application to facilitate faster emergency
 - Ability to change traffic lights to green faster or keep them green longer.
 - Integration with IoT platforms for seamless data exchange.
 
-## Installation
+## Setup
 1. **Arduino Setup**:
     - Connect the Arduino to the traffic light system.
     - Upload the control program to the Arduino.
@@ -37,3 +37,5 @@ This project aims to develop a mobile application to facilitate faster emergency
 This project was part of an elective course called Fundamentals of Internet of Things (12 weeks), for which I received an overall grade of A. While the project works fine, there are place for improvement: 
 - **Security**: Enhancing security measures to protect data and communication channels.
 - **Login Credentials**: Implementing a more robust authentication system to ensure only authorized users can access and control the traffic lights.
+
+![Outcome Image](./outcome.png)
