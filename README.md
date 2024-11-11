@@ -6,7 +6,7 @@ This project aims to develop a mobile application to facilitate faster emergency
 ## Solution
 The mobile app allows ambulances to control traffic lights, ensuring they turn green faster or stay green longer, thereby creating a clear path and reducing response times.
 
-![Concept Image](./concept.png
+![Concept Image](./concept.png)
 
 ## Components
 1. **Arduino**: Used to control the traffic light signals.
