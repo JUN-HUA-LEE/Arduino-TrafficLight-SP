@@ -1,10 +1,7 @@
 # Preemptive Traffic Light Mini-Project
 
 ## Overview
-This project aims to develop a mobile application to facilitate faster emergency response times by preemptively changing traffic lights to green for approaching ambulances.
-
-## Solution
-The mobile app allows ambulances to control traffic lights, ensuring they turn green faster or stay green longer, thereby creating a clear path and reducing response times.
+This project aims to develop a mobile application to facilitate faster emergency response times by preemptively changing traffic lights to green for approaching ambulances. The mobile app allows ambulances to control traffic lights, ensuring they turn green faster or stay green longer, thereby creating a clear path and reducing response times.
 
 ![Concept Image](./concept.png)
 
@@ -36,3 +33,7 @@ The mobile app allows ambulances to control traffic lights, ensuring they turn g
     - Open the app on the a phone.
     - Enter the destination and initiate the traffic control system.
 
+## Outcome
+This project was part of an elective course called Fundamentals of Internet of Things (12 weeks), for which I received an overall grade of A. While the project works fine, there are place for improvement: 
+- **Security**: Enhancing security measures to protect data and communication channels.
+- **Login Credentials**: Implementing a more robust authentication system to ensure only authorized users can access and control the traffic lights.
